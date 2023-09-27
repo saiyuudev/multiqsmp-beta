@@ -1,16 +1,16 @@
 {
   "streamers-dialog": {
-    "title": "Choose your streamers or groups!",
-    "group-tab-title": "Groups",
-    "profile-image-alt": "Avatar of",
-    "watch": "Watch",
-    "selected-streamers-or-groups": "Selected streamers or groups:",
-    "no-selected-streamers-or-groups": "No selected streamers or groups.",
-    "new-participant": "New participant!",
-    "new-participants": "New participants!"
+    "title": "Choisissez vos streamers ou vos groupes !",
+    "group-tab-title": "Groupes",
+    "profile-image-alt": "Avatar de",
+    "watch": "Regarder",
+    "selected-streamers-or-groups": "Streamers ou groupes sélectionnés:",
+    "no-selected-streamers-or-groups": "Pas de streamers ou de groupes sélectionnés.",
+    "new-participant": "Nouveau participant !",
+    "new-participants": "Nouveaux participants !"
   },
   "streams-list": {
-    "no-streams": "It looks like you haven't chosen a streamer yet. Click on the button on the right and start watching!"
+    "no-streams": "Il semble que vous n'ayez pas encore choisi de streamer. Cliquez sur le bouton à droite et commencez à regarder !"
   },
   "organize-dialog": {
     "title": "Reorder your streams or chats.",
